@@ -22,6 +22,3 @@ $ python3 app.py
 ```
     * Output: Active running API which processes requests
 ```
-
-
-```
