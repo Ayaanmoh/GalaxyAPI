@@ -1,3 +1,5 @@
+Following dependencies need to be installed/enabled:
+
 blinker==1.4
 Click==7.0
 Flask==1.0.2
